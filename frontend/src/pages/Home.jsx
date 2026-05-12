@@ -74,7 +74,7 @@ const Home = () => {
   const featuredPlayers = [
     {
       id: 1,
-      name: "Virat Kohli",
+      name: "haresh",
       role: "Batsman",
       team: "Hyderabad Warriors",
       runs: 2450,
@@ -82,7 +82,7 @@ const Home = () => {
     },
     {
       id: 2,
-      name: "Jasprit Bumrah",
+      name: "Rajesh",
       role: "Bowler",
       team: "Mumbai Mavericks",
       runs: 120,
@@ -90,7 +90,7 @@ const Home = () => {
     },
     {
       id: 3,
-      name: "Rohit Sharma",
+      name: "Pranav",
       role: "Batsman",
       team: "Bangalore Titans",
       runs: 2200,

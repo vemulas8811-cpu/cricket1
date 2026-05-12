@@ -74,7 +74,7 @@ const Home = () => {
   const featuredPlayers = [
     {
       id: 1,
-      name: "haresh",
+      name: "Haresh",
       role: "Batsman",
       team: "Hyderabad Warriors",
       runs: 2450,

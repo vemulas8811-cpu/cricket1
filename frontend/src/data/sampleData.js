@@ -43,8 +43,6 @@ export const samplePlayers = [
     runs: 1245,
     wickets: 0,
     matches: 15,
-    profileImage:
-      "https://images.unsplash.com/photo-1540575467063-178f50c2dff0?w=120&h=120&fit=crop",
   },
   {
     id: 2,
@@ -54,8 +52,6 @@ export const samplePlayers = [
     runs: 145,
     wickets: 28,
     matches: 15,
-    profileImage:
-      "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=120&h=120&fit=crop",
   },
   {
     id: 3,
@@ -65,8 +61,6 @@ export const samplePlayers = [
     runs: 892,
     wickets: 15,
     matches: 14,
-    profileImage:
-      "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=120&h=120&fit=crop",
   },
   {
     id: 4,
@@ -76,8 +70,6 @@ export const samplePlayers = [
     runs: 765,
     wickets: 12,
     matches: 13,
-    profileImage:
-      "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=120&h=120&fit=crop",
   },
 ];
 
